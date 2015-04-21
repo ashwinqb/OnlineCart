@@ -10,10 +10,9 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
 </head>
 <body>
-<h1>
+ <h1>
 	Hello world!  
-</h1>
-
+ </h1>
 <footer class="page-footer">
           <div class="container">
             <div class="row">
